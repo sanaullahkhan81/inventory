@@ -1,0 +1,63 @@
+.link {
+    text-decoration: underline !important;
+    color: blue !important;
+}
+
+.bbLight {
+    border-bottom: 1px solid #E6E9ED;
+}
+
+.table-striped > tbody > tr:nth-of-type(2n+1){
+    background-color: #ffffff !important;
+    color: black !important;
+    font-weight: bold !important;
+}
+
+.table-striped > tbody > tr:nth-of-type(2n){
+    background-color: #99d9ea !important;
+    color: black !important;
+    font-weight: bold !important;
+}
+
+.table-striped > thead > tr{
+    background-color: #004080 !important;
+    color: white !important;
+}
+
+.x_panel{
+    background-color: #00a2e8 !important;
+    color: white !important;
+}
+
+.right_col{
+    background-color: #FFFFFF !important; /*#A445A6 !important;*/
+    height: 100%;
+}
+
+.left_col{
+    background-color: #00a2e8 !important;
+    height: 100% !important;
+}
+
+body{
+    background: #00a2e8 !important;
+    height: 100%;
+    color: black !important;
+    font-weight: bold !important;
+}
+
+.nav.side-menu > li.active > a{
+    background: #00a2e8 !important;
+}
+
+.child_menu{
+    background: #00a2e8 !important;
+}
+
+.nav_title{
+    background-color: #00a2e8 !important;
+}
+
+#btn-customer-order, #btn-create-purchase-order{
+    color: #5a738e !important;
+}
